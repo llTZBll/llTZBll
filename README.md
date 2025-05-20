@@ -1,16 +1,13 @@
 ### **Hi, I'm llTZBll 👋**  
-*AI 领域本科生 | 机器学习爱好者*  
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span>AI 领域本科生 | 技术菜鸟</span>
+  <a href="https://github.com/llTZBll"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github"></a>
+  <a href="mailto:murillo.comino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:murillo_comino@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" alt="Outlook"></a>
+</div>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/llTZBll)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
-
-&nbsp;
-<img width="40%" align="right" alt="AI Illustration" src="https://raw.githubusercontent.com/llTZBll/llTZBll/main/ai-banner.svg" /> <!-- 请替换为你的图片链接 -->  
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 - 🔭 I’m currently working on my undergraduate studies in Artificial Intelligence.
 - 🌱 I’m currently learning about high-dimensional data processing, few-shot learning, incremental learning, and zero-shot learning.
