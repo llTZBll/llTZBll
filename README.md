@@ -10,9 +10,6 @@ You can use the website to generate badges: https://shields.io/
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 
 &nbsp;
-
-
-### **💡 About me**  
 <img width="40%" align="right" alt="AI Illustration" src="https://raw.githubusercontent.com/llTZBll/llTZBll/main/ai-banner.svg" /> <!-- 请替换为你的图片链接 -->  
 
 - 🔭 I’m currently working on my undergraduate studies in Artificial Intelligence.
