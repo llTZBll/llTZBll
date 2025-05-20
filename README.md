@@ -2,10 +2,10 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <span>AI 领域本科生 | 技术菜鸟</span>
   <a href="https://github.com/llTZBll"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github"></a>
-  <a href="mailto:murillo.comino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
-  <a href="mailto:murillo_comino@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" alt="Outlook"></a>
+  <a href="mailto:tangzhenbang2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
+<!--  <a href="mailto:murillo_comino@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" alt="Outlook"></a>-->
+  <a href="https://space.bilibili.com/693478943"><img src="https://img.shields.io/badge/-Bilibili-ff69b4?style=flat&logo=bilibili&logoColor=white" alt="Outlook"></a>
 </div>
-
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
