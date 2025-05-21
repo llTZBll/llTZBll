@@ -57,8 +57,10 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🩴 还没想好放些什么
-
+#### 🩴 分享文章
+* <a href='https://ocnf4t0u1iot.feishu.cn/wiki/MFo0wdJGFiUBvtkwsWecL07UnPc?from=from_copylink' target='_blank'>机器行为与具身智能</a> - 2025-4-25
+* <a href='https://ocnf4t0u1iot.feishu.cn/wiki/VlcfwkvwAiQvlqkMcxTcIKMDnEc?from=from_copylink' target='_blank'>李沐在上交的讲座</a> - 2024-8-23
+* <a href='https://ocnf4t0u1iot.feishu.cn/wiki/YKGjwkdoPih8Vyk4tDIcWOsbnEb?from=from_copylink' target='_blank'>人工智能与智能计算的发展</a> - 2024-4-26
 <!-- weekly starts -->
 
 
