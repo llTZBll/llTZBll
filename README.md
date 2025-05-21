@@ -47,11 +47,11 @@
 #### 🤾‍♂️ <a href="https://ocnf4t0u1iot.feishu.cn/wiki/GDvSwuIvPi6ZgHk75NxcOlTJnnI?from=from_copylink" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://ocnf4t0u1iot.feishu.cn/wiki/NrwDwAAdLiPoBzkXWIhc2gVgnMd?from=from_copylink' target='_blank'>合适的人</a> - 2024-05-10
 * <a href='https://tzb.notion.site/wiki-354bcc72817744fabd7fef885ae07c5a' target='_blank'>数学建模のwiki</a> - 2025-2-13
 * <a href='https://ocnf4t0u1iot.feishu.cn/wiki/YyBSwUjHviV3Qak4npkc3FrWnzc?from=from_copylink' target='_blank'>海明校验的公式推导及讨论</a> - 2024-9-12
-* <a href='https://tw93.fun/2024-06-30/china.html' target='_blank'>置身事内 - 读书笔记</a> - 2024-06-30
-* <a href='https://tw93.fun/2024-05-08/sony.html' target='_blank'>我居然用回有线耳机了</a> - 2024-05-08
+* <a href='https://ocnf4t0u1iot.feishu.cn/wiki/NrwDwAAdLiPoBzkXWIhc2gVgnMd?from=from_copylink' target='_blank'>合适的人</a> - 2024-05-10
+* <a href='https://ocnf4t0u1iot.feishu.cn/wiki/Wta9wC6iViT7gAkRS6JcriVTnLe?from=from_copylink' target='_blank'>卓越基因-摘抄78</a> - 2024-04-22
+* <a href='https://ocnf4t0u1iot.feishu.cn/wiki/Xp2KwWiiEi3Vtvk1AgzcRqERnpf?from=from_copylink' target='_blank'>卓越基因 - 读书笔记3</a> - 2024-04-21
 <!-- blog ends -->
 
 </td>
